@@ -1,0 +1,43 @@
+{
+  "868091755126484994": {
+    "xp": 0,
+    "level": 1,
+    "balance": 98261,
+    "badges": [
+      " 🛡️",
+      " ⭐",
+      " 🥚"
+    ],
+    "warns": [],
+    "lastMessage": 0,
+    "lastDaily": 1769034295579
+  },
+  "1199702019603181728": {
+    "xp": 0,
+    "level": 1,
+    "balance": 161,
+    "badges": [],
+    "warns": [],
+    "lastMessage": 0,
+    "lastDaily": 1769191794335
+  },
+  "dm_log": {
+    "xp": 0,
+    "level": 1,
+    "balance": 100,
+    "badges": [],
+    "warns": [],
+    "lastMessage": 0,
+    "dms": [
+      {
+        "id": "1465005740497567765",
+        "userId": "868091755126484994",
+        "sender": "Administration",
+        "title": "Test",
+        "description": "deleting this soon",
+        "color": "#0099ff",
+        "timestamp": 1769354987352
+      }
+    ]
+  }
+}

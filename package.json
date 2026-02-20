@@ -1,0 +1,30 @@
+{
+  "name": "mybaida-bot",
+  "version": "1.0.0",
+  "description": "A multifunctional Discord bot with economy, moderation, fun, and utility features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "economy",
+    "fun",
+    "moderation"
+  ],
+  "author": "@fl3x4mc",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "better-sqlite3": "^12.6.2",
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "quick.db": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
